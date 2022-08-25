@@ -21,11 +21,11 @@ Ich mache ein kleines Spiel in dem man eine Zahl von 1-100 raten muss.
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    | muss            | Funktionale Anforderung     | Als ein Spieler möchte ich dass der Computer eine Zufallszahl zwischen 1 und 100 generiert, damit man eine Zahl raten kann.                    |
-| 2    | muss            |      | Als ein Spieler möchte ich dass ich eine Zahl raten kann, damit ich das Spiel gewinnen kann.                                   |
-| 3    | muss            |      | Als ein Spieler möchte ich dass der Computer mir einen Hinweis gibt ob die Zahl grösser, kleiner oder richtig ist, damit das Spiel einfacher wird.   |
-| 4    | kann            |      | Als ein Spieler möchte ich dass der Computer mir, wenn ich das Spiel gewonnen habe eine Nachricht ausgibt wie viele versüche ich brauchte, damit ich mich mit anderen vergleichen kann.                 |
-| 5    | kann            |      | Als ein Spieler möchte ich dass der Computer nur Zahlen zwischen 1 und 100 als eingabe akzeptiert, damit man keine Fehlermeldung bekommt.             |
-| 6    | kann            |      | ALs ein Spieler möchte ich dass der Computer ander features annimmt, damit das Spiel immer spannend bleibt.|
+| 2    | muss            | Funktionale Anforderung      | Als ein Spieler möchte ich dass ich eine Zahl raten kann, damit ich das Spiel gewinnen kann.                                   |
+| 3    | muss            | Funktionale Anforderung     | Als ein Spieler möchte ich dass der Computer mir einen Hinweis gibt ob die Zahl grösser, kleiner oder richtig ist, damit das Spiel einfacher wird.   |
+| 4    | kann            | Qualitatanforderung     | Als ein Spieler möchte ich dass der Computer mir, wenn ich das Spiel gewonnen habe eine Nachricht ausgibt wie viele versüche ich brauchte, damit ich mich mit anderen vergleichen kann.                 |
+| 5    | kann            | Qualitatanforderung     | Als ein Spieler möchte ich dass der Computer nur Zahlen zwischen 1 und 100 als eingabe akzeptiert, damit man keine Fehlermeldung bekommt.             |
+| 6    | kann            |  Randanforderungen    | ALs ein Spieler möchte ich dass das Programm ander features annimmt, damit das Spiel immer spannend bleibt.|
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
@@ -47,6 +47,18 @@ Ich mache ein kleines Spiel in dem man eine Zahl von 1-100 raten muss.
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
+| 1.A  |  1 Woche 1.Sep    | Lukas        | Herausfinden wie man eine Zufallzahl generiert             |   45min            |
+| 2.A  |  1 Woche     | Lukas          | Zufallzahl              |   45min            |
+| 3.A  |  1 Woche     | Lukas          |              |   45min            |
+| 4.A  |  1 Woche     | Lukas          |              |   45min            |
+| 5.A  |  2 Woche 8.Sep   | Lukas          |              |   45min            |
+| 6.A  |  2 Woche     | Lukas          |              |   45min            |
+| 7.A  |  2 Woche     | Lukas          |              |   45min            |
+| 8.A  |  2 Woche     | Lukas          |              |   45min            |
+| 9.A  |  3 Woche 15. Sep    | Lukas          |              |   45min            |
+| 10.A |  3 Woche     | Lukas          |              |   45min            |
+| 11.A |  3 Woche     | Lukas          |              |   45min            |
+| 12.A |  3 Woche     | Lukas           |              |   45min            |
 | 1.A  |       |           |              |               |
 | ...  |       |           |              |               |
 
