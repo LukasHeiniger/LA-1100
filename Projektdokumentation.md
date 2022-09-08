@@ -68,8 +68,9 @@ Ich mache ein kleines Spiel in dem man eine Zahl von 1-100 raten muss.
 | 8.A  |  2 Woche     | Lukas          | Highscore ein bauen.             |   45min            |
 | 9.A  |  3 Woche 15. Sep    | Lukas          | Herausfinden wie ich dem Programm sagen kann dass diese Eingabe falsch ist und eine Fehlermeldung angezeigt werden soll.             |   45min            |
 | 10.A |  3 Woche     | Lukas          | Einbauen der Fehlermeldung wenn keine Zahl zwischen 1-100 eingegeben wird.              |   45min            |
-| 11.A |  3 Woche     | Lukas          | Herausfinden wie ich Features einbauen kann.             |   45min            |
-| 12.A |  3 Woche     | Lukas           | Features einbauen             |   45min            |
+| 11.A |  3 Woche      | Lukas         | Der Spieler soll entscheiden, ob er nochmal spielen möchte.             | 45min|
+| 12.A |  3 Woche     | Lukas          | Herausfinden wie ich Features einbauen kann.             |   45min            |
+| 13.A |  3 Woche     | Lukas           | Features einbauen             |   45min            |
 | 1.A  |       |           |              |               |
 | ...  |       |           |              |               |
 
@@ -87,8 +88,17 @@ Ich habe mich dazu entschieden wenn ich genügen Zeit habe einige Features einzu
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  |   1.09.2022    |   Lukas     |    45min           |   20min                |
+|2.A  | 1.09.2022      |  Lukas        |  45min            |    15min               |
+| 3.A  | 1.09.2022       |   Lukas        |   45min            |       20min            |
+| 4.A | 1.09.2022      |   Lukas        |  45min             |   10min                |
+| 5.A  |  1.09.2022     |   Lukas        |   45min            |  5min                 |
+| 6.A  | 1.09.2022       |   Lukas        |    45min          |    35min               |
+| 7.A  | 1.09.2022       |   Lukas        |     45min          |    20min               |
+| 9.A  |  8.09.2022     |   Lukas        |   45            |       8min            |
+| 3.A  |       |   Lukas        |               |                   |
+| ...  |       |   Lukas        |               |                   |
+| 1.A  |       |   Lukas        |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
