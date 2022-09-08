@@ -6,9 +6,9 @@ Lukas Heiniger
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+|  1.09.2022     | Alpha 1.0  | Das Hauptprogramm mit allen muss Anforderungen ist fertig. |
+|  8.09.2022     | Alpha 1.1 | Das Spiel mit allen muss und kann Anforderungen ist fertig. |                                                            |
+|  8.09.2022     | Alpha 1.2  | Features                                                             |
 
 ## 1 Informieren
 
@@ -26,6 +26,7 @@ Ich mache ein kleines Spiel in dem man eine Zahl von 1-100 raten muss.
 | 4    | kann            | Qualitatanforderung     | Als ein Spieler möchte ich dass der Computer mir, wenn ich das Spiel gewonnen habe eine Nachricht ausgibt wie viele versüche ich brauchte, damit ich mich mit anderen vergleichen kann.                 |
 | 5    | kann            | Qualitatanforderung     | Als ein Spieler möchte ich dass der Computer nur Zahlen zwischen 1 und 100 als eingabe akzeptiert, damit man keine Fehlermeldung bekommt.             |
 | 6    | kann            |  Randanforderungen    | ALs ein Spieler möchte ich das man andere Spielmodis spielen kann, damit das Spiel immer spannend bleibt.|
+| 7   | kann            |  Randanforderungen    | ALs ein Spieler möchte ich das man Farbe im Spiel hat, damit das Spiel schöner aussieht.|
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
@@ -69,8 +70,8 @@ Ich mache ein kleines Spiel in dem man eine Zahl von 1-100 raten muss.
 | 9.A  |  3 Woche 15. Sep    | Lukas          | Herausfinden wie ich dem Programm sagen kann dass diese Eingabe falsch ist und eine Fehlermeldung angezeigt werden soll.             |   45min            |
 | 10.A |  3 Woche     | Lukas          | Einbauen der Fehlermeldung wenn keine Zahl zwischen 1-100 eingegeben wird.              |   45min            |
 | 11.A |  3 Woche      | Lukas         | Der Spieler soll entscheiden, ob er nochmal spielen möchte.             | 45min|
-| 12.A |  3 Woche     | Lukas          | Herausfinden wie ich Features einbauen kann.             |   45min            |
-| 13.A |  3 Woche     | Lukas           | Features einbauen             |   45min            |
+| 12.A |  3 Woche     | Lukas          | Highscore (Plus Name)           |   45min            |
+| 13.A |  3 Woche     | Lukas           | Hardcore mode           |   45min            |
 | 1.A  |       |           |              |               |
 | ...  |       |           |              |               |
 
@@ -95,10 +96,11 @@ Ich habe mich dazu entschieden wenn ich genügen Zeit habe einige Features einzu
 | 5.A  |  1.09.2022     |   Lukas        |   45min            |  5min                 |
 | 6.A  | 1.09.2022       |   Lukas        |    45min          |    35min               |
 | 7.A  | 1.09.2022       |   Lukas        |     45min          |    20min               |
-| 9.A  |  8.09.2022     |   Lukas        |   45            |       8min            |
-| 3.A  |       |   Lukas        |               |                   |
-| ...  |       |   Lukas        |               |                   |
-| 1.A  |       |   Lukas        |               |                   |
+| 9.A  |  8.09.2022     |   Lukas        |   45min            |       30min            |
+| 10.A  |  8.09.2022     |   Lukas        |     45min          |    40 min             |
+| 11.A  | 8.09.2022      |   Lukas        |   45min            |    50min               |
+| 12.A  |  8.09     |   Lukas        |  45min             |    45min               |
+| 13.A  |  8.09     |   Lukas        |  45min             |   60min            |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
