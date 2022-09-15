@@ -8,7 +8,9 @@ Lukas Heiniger
 | ----- | ------- | ------------------------------------------------------------ |
 |  1.09.2022     | Alpha 1.0  | Das Hauptprogramm mit allen muss Anforderungen ist fertig. |
 |  8.09.2022     | Alpha 1.1 | Das Spiel mit allen muss und kann Anforderungen ist fertig. |                                                            |
-|  8.09.2022     | Alpha 1.2  | Features wurden eingebaut (Hardcoremode)                                                       |
+|  8.09.2022     | Alpha 1.2  | Features wurden eingebaut (Hardcoremode) |
+|  15.09.2022    | Alpha 1.3  | Das Spiel hat nun Farbe und Bugs wurden gefixt|
+|  15.09.2022    | Betha 1.0  | Das Spiel ist Fertig                          |
 
 ## 1 Informieren
 
@@ -27,8 +29,8 @@ Ich mache ein kleines Spiel in dem man eine Zahl von 1-100 raten muss.
 | 5    | kann            | Qualitatanforderung     | Als ein Spieler möchte ich dass der Computer nur Zahlen zwischen 1 und 100 als eingabe akzeptiert, damit man keine Fehlermeldung bekommt.             |
 | 6    | kann            |  Randanforderungen    | ALs ein Spieler möchte ich das man andere Spielmodis spielen kann, damit das Spiel immer spannend bleibt.|
 | 7   | kann            |  Randanforderungen    | ALs ein Spieler möchte ich das man Farbe im Spiel hat, damit das Spiel schöner aussieht.|
-| 8 | kann            |  Randanforderungen    | ALs ein Spieler möchte ich das man Farbe im Spiel hat, damit das Spiel schöner aussieht.|
-| 8  | kann            |  Randanforderungen    | ALs ein Spieler möchte ich das man Farbe im Spiel hat, damit das Spiel schöner aussieht.|
+| 8 | kann            |  Randanforderungen    | ALs ein Spieler möchte ich einen Timer den ich selber festlegen kann, damit ich mir Challanges stellen kann.|
+| 9  | kann            |  Randanforderungen    | ALs ein Spieler möchte ich das man Farbe im Spiel hat, damit das Spiel schöner aussieht.|
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
@@ -76,8 +78,9 @@ Ich mache ein kleines Spiel in dem man eine Zahl von 1-100 raten muss.
 | 13.A |  3 Woche     | Lukas           | Hardcore mode           |   45min            |
 | 14.A  | 4 Woche      |  Lukas        |  Herausfinden wie ich Farbe in mein Spiel bringen kann.            |     45          | 
 | 15.A | 4 Woche      |   Lukas        |  Farbe einfügen      |    45            |
-| 16.A | 4 Woche      |   Lukas        |  Herausfinden wie ich einen Timer einbauen kann    |    45  |
-| 17.A | 4 Woche      |   Lukas        |  Timer einbauen und selber Festlegen können    |    45  |
+| 16.A | 4 Woche      |   Lukas        |  Herausfinden wie ich einen Highscoore einbauen kann damit die Namen gespeichert werden    |    45  |
+| 17.A | 4 Woche      |   Lukas        |  Highscooretabelle einfügen    |    45  |
+| 18.A | 4 Woche      |   Lukas        |  Bugs beheben und allgemein den Code aufräumen    |    45  |
 Total: 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
@@ -86,7 +89,7 @@ Total:
 
 ## 3 Entscheiden
 
-Ich habe mich dazu entschieden wenn ich genügen Zeit habe einige Features einzubauen wie z.B das man das Spiel direkt nochmal Spielen kann oder auch das es verschiedene Schwierigkeitsgrade geben soll. Ich habe mich dafür entschieden das ich Farbe im Spiel haben möchte und sie sich anpasst wie schwierig der Spielmodus ist.
+Ich habe mich dazu entschieden wenn ich genügen Zeit habe einige Features einzubauen wie z.B das man das Spiel direkt nochmal Spielen kann oder auch das es verschiedene Schwierigkeitsgrade geben soll. Ich habe mich dafür entschieden das ich Farbe im Spiel haben möchte. Ich habe mich dazu entschieden noch Bugs zufixen z.B Try and catch das funktioniert noch nicht ganz.
 
 ## 4 Realisieren
 
