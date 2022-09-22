@@ -129,16 +129,9 @@ Ich habe mich dazu entschieden wenn ich genügen Zeit habe einige Features einzu
 | 8.1  | 22.09.2022     |  nicht vorhanden        | Lukas Heiniger        |
 
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Ich bin zufrieden mit allen Testergebnisse ausserd vielleicht mit dem letzten, da ich den Timer nicht einbauen konnte. Das Spiel funktioniert aber trozdem
+und ist auf den Timer nicht angewiesen.
 
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
