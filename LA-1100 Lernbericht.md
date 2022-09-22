@@ -11,17 +11,14 @@ Ich habe gelernt wie ich eine Zahl generieren kann auch, wenn Variablen vorhande
 
 ## Beschreibung
 
-In meinem Projekt dem Zahlenratespiel musste ich mich dem Problem Zahlen generieren stellen.
-Ich habe also gelernt wie man eine Zahl generiert dafür habe ich viele Infos aus dem Internet gefunden zudem musste ich mir auch überlegen
-wie ich den Zahlengenerator einbauen möchte. 
+In meinem Projekt, dem Zahlenratespiel musste ich mich dem Problem Zahlen generieren stellen. Ich habe also gelernt, wie man eine Zahl generiert, dafür habe ich viele Informationen aus dem Internet gefunden, zudem musste ich mir auch überlegen, wie ich den Zahlengenerator einbauen möchte.
 
-Hier ein PAP zur einfachen generierung einer Zahl.
+Hier ein PAP zur einfachen Generierung einer Zahl.
 
 ![image](https://user-images.githubusercontent.com/111046378/191698104-129d71ab-9901-4820-8617-80385218b6f0.png)
 
-Da ich in meinem Projekt einen Hardcoremodi möchte musste ich mir Überlegen wie ich ohne dass ich den Code ändern muss sprich den Code einfach kopieren und unter dem 
+Da ich in meinem Projekt einen Hardcoremodi möchte, musste ich mir überlegen wie ich, ohne dass ich den Code ändern muss, sprich den Code einfach kopieren und unter dem 
 bestehenden Code wieder einfüge. Dann habe ich mich dafür entschieden, dass ich die obere Grenze sprich 100 als Variable speichere. Das heisst es ist möglich im Spiel seine eigene Grenze festzulegen.
-
 Hier ein Code Beispiel
 
 ```csharp
@@ -42,9 +39,9 @@ Hier ein Code Beispiel
 ## Verifikation
 
 
-Durch mein PAP kann man sehen wie ich das Prinzip eines Zahlengenerator verstehe und weiss wie er funktioniert.
-Durch den Text kann man herauslesen wie ich das ganze Thema behandle und wie ich meine Probleme gelöst habe z.B mit "höhe" als Variable für die Zahlen generierung.
-Durch den Code kann man sehen wie ich das Problem mit der Variable gelöst habe und wie ich einen Zahlengenerator programmiert habe.
+Durch mein PAP kann man sehen, wie ich das Prinzip eines Zahlengenerators verstehe und weiss wie er funktioniert.
+Durch den Text kann man herauslesen, wie ich das ganze Thema behandle und wie ich meine Probleme gelöst habe z.B , mit "höhe" als Variable für die Zahlen Generierung.
+Durch den Code kann man sehen, wie ich das Problem mit der Variable gelöst habe und wie ich einen Zahlengenerator programmiert habe.
 
 
 
