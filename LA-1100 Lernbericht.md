@@ -42,10 +42,11 @@ Hier ein Code Beispiel
 ## Verifikation
 
 
-Durch mein PAP kann man sehen wie ich das Prinzip eines Zahlengenerator verstehe und wie er funktioniert.
-Durch den Text kann man herauslesen
+Durch mein PAP kann man sehen wie ich das Prinzip eines Zahlengenerator verstehe und weiss wie er funktioniert.
+Durch den Text kann man herauslesen wie ich das ganze Thema behandle und wie ich meine Probleme gelöst habe z.B mit "höhe" als Variable für die Zahlen generierung.
+Durch den Code kann man sehen wie ich das Problem mit der Variable gelöst habe und wie ich einen Zahlengenerator programmiert habe.
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+
 
 # Reflexion zum Arbeitsprozess
 
