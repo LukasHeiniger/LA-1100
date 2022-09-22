@@ -10,8 +10,8 @@ Lukas Heiniger
 |  8.09.2022     | Alpha 1.1 | Das Spiel mit allen muss und kann Anforderungen ist fertig. |                                                            |
 |  8.09.2022     | Alpha 1.2  | Features wurden eingebaut (Hardcoremode) |
 |  15.09.2022    | Alpha 1.3  | Das Spiel hat nun Farbe und Bugs wurden gefixt|
-|  15.09.2022    | Betha 1.0  | Das Spiel ist Fertig                          |
-
+|  15.09.2022    | Beta 1.0  | Das Spiel ist Fertig und wird noch getestet |
+|  22.09.2022    | Release   |  Das Spiel ist Fertig und wurde getestet. Es ist nun Fertig.|
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
@@ -41,9 +41,9 @@ Ich mache ein kleines Spiel in dem man eine Zahl von 1-100 raten muss.
 | 1.1  |Programm ist gestarten | Der Tester muss das Programm starten.        | Der Computer generiert eine Zahl und wird durch Breakpoints im debbuger sicht bar.   |         
 | 2.1  | Das Spiel wurde gestarten | Der Tester muss eine Zahl eingeben        |  Der Computer merkt sich die Zahl und kann durch Breakpoints sicht bar gemacht werden.                |
 | 3.1  | Eine Zahl wurde eingegeben     | Der Spieler gibt eine Zahl ein     | Die Zahl ist grösser als die Generierte Zahl.  / Die Zahl ist kleiner als die Generierte Zahl.                |
-| 4.1  | Spiel wurde gewonnen          | Der Tester muss das Spiel spielen.        | Es wird angezeigt das der Tester zum Beispiel 4 versüche bracuhte.                  |
+| 4.1  | Spiel wurde gewonnen          | Der Tester muss das Spiel spielen.        | Es wird angezeigt das der Tester zum Beispiel 4 versüche gebraucht hatte.                  |
 | 5.1  | Der Spieler hat eine Falsche eingabe betätigt, | Der Tester soll eine falsche Eingabe betätigen.|  Das Programm soll eine Fehlermeldung abgeben und bitten eine richtige Eingabe zubetätigen.                |
-| 6.1  | Das Spiel wurde 3 mal gewonnen | Der Tester kann entscheiden ob er einen schwierigeren Modus spielen möchte.   Wenn man Nein klickt soll man wieder spielen können. Und das man Ja schreibt soll man schwierigere Modisspielen können                 |
+| 6.1  | Das Spiel wurde 3 mal gewonnen | Der Tester kann entscheiden ob er einen schwierigeren Modus spielen möchte.|Wenn man Nein klickt soll man wieder spielen können. Und das man Ja schreibt soll man schwierigere Modisspielen können                 |
 | 7.1  |  Spiel wurde gestartet            |  Spieler startet Spiel       |  Das Spiel wird mit blauer Farbe angezeigt.|
 | 8.1 |  Spiel wurde gestartet            |  Timer festlegen.       | Nach abgelofener Zeit hat man verloren.                  |
 
@@ -119,9 +119,15 @@ Ich habe mich dazu entschieden wenn ich genügen Zeit habe einige Features einzu
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  | 22      |          |        |
-| ...  |       |          |        |
-| 1.1  |       |          |        |
+| 1.1  | 22.09.2022     |  funktioniert        | Lukas Heiniger        |
+| 2.1  | 22.09.2022     |  funktioniert        | Lukas Heiniger        |
+| 3.1  | 22.09.2022     |  funktioniert        | Lukas Heiniger        |
+| 4.1  | 22.09.2022     |  funktioniert        | Lukas Heiniger        |
+| 5.1  | 22.09.2022     |  funktioniert         | Lukas Heiniger        |
+| 6.1  | 22.09.2022     |  funktioniert         | Lukas Heiniger        |
+| 7.1  | 22.09.2022     |  funktioniert         | Lukas Heiniger        |
+| 8.1  | 22.09.2022     |  nicht vorhanden        | Lukas Heiniger        |
+
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
