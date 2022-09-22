@@ -1,22 +1,19 @@
-# Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+# Lern-Bericht LA-1100
+Name: Lukas Heiniger
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+Ich habe ein Spiel mit C# programmiert in dem man eine Zahl zwischen 1 und 100 raten muss.
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Ich habe gelernt wie ich eine Zahl generieren kann auch, wenn Variablen vorhanden sind.
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
+In meiner Projekt Phase musste ich dem Problem Zahlengenerieren stellen.
+Ich habe also gelernt wie man eine Zahl generiert dafür habe ich e
 
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
 
 ## Verifikation
 
@@ -24,8 +21,11 @@
 
 # Reflexion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Das Zuhause arbeiten ist mir gut gelungen, da ich mich besser konzentrieren konnte als in der Schule.
 
-👎 und etwas, was nicht gut lief.
+Das recherchieren ist mir nicht gut gelungen, da ich nicht spezifisch für das Thema recherchiert habe z.B falsche Programmiersprache etc..
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserung
+In den nächsten Projekte versuche ich spezifischer zu rechechieren z.B. nach C# oder anfänger Code.
+
+Lernbericht von Lukas Heiniger
+
