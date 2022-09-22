@@ -1,4 +1,4 @@
-# Projekt-Dokumentation
+# Projektdokumentation LA-1100
 
 ☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
@@ -30,7 +30,7 @@ Ich mache ein kleines Spiel in dem man eine Zahl von 1-100 raten muss.
 | 6    | kann            |  Randanforderungen    | ALs ein Spieler möchte ich das man andere Spielmodis spielen kann, damit das Spiel immer spannend bleibt.|
 | 7   | kann            |  Randanforderungen    | ALs ein Spieler möchte ich das man Farbe im Spiel hat, damit das Spiel schöner aussieht.|
 | 8 | kann            |  Randanforderungen    | ALs ein Spieler möchte ich einen Timer den ich selber festlegen kann, damit ich mir Challanges stellen kann.|
-| 9  | kann            |  Randanforderungen    | ALs ein Spieler möchte ich das man Farbe im Spiel hat, damit das Spiel schöner aussieht.|
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
@@ -38,21 +38,20 @@ Ich mache ein kleines Spiel in dem man eine Zahl von 1-100 raten muss.
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Der Computer soll am anfang des Spieles eine Zahl generieren und anzeigen             | Der Tester muss das Programm starten.        | Der Computer generiert eine Zahl und zeigt sie an     |         
-| 2.1  | Es soll möglich sein ein Zahl einzugeben             | Der Tester muss eine Zahl eingeben        |  Der Computer merkt sich die Zahl.                 |
-| 3.1  | Es soll möglich sein das Spiel zu gewinnen mit hilfe von >/</= ist die generierte Zahl.            | Der Tester soll mit Hilfe von </>/= das Spiel gewinnen können        | Der Spieler kann das Spiel gewinnen.                  |
-| 4.1  | Am ende des Spiel sollen die Anzahl versuche dargestellt werden.            | Der Tester muss das Spiel spielen.        | Es wird angezeigt das der Tester zum Beispiel 4 versüche bracuhte.                  |
-| 5.1  | Es sollen nur Zahlen zwischen 1 und 100 akzeptiert werrden.             | Der Tester soll eine Zahl die kleiner als 0 ist oder grösser als 100 eingeben        |  Das Programm soll eine Fehlermeldung abgeben und bitten eine richtige Eingabe zubetätigen.                |
-| 6.1  | Es soll möglich sein eingebaute Features zu testen z.B den nochmal Spiele Button oder die Verschieden Schwierigkeitmoduse           | Der Tester soll auf den Button nochmal Spielen klicken können oder ander Moduse zustarten         |  Wenn man den Button klickt soll man wieder spielen können. Und das man schwierigere Moduse spielen kann.                 |
-| ...  |              |         |                   |
-| ...  |              |         |                   |
-| ...  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  |Programm ist gestarten | Der Tester muss das Programm starten.        | Der Computer generiert eine Zahl und wird durch Breakpoints im debbuger sicht bar.   |         
+| 2.1  | Das Spiel wurde gestarten | Der Tester muss eine Zahl eingeben        |  Der Computer merkt sich die Zahl und kann durch Breakpoints sicht bar gemacht werden.                |
+| 3.1  | Eine Zahl wurde eingegeben     | Der Spieler gibt eine Zahl ein     | Die Zahl ist grösser als die Generierte Zahl.  / Die Zahl ist kleiner als die Generierte Zahl.                |
+| 4.1  | Spiel wurde gewonnen          | Der Tester muss das Spiel spielen.        | Es wird angezeigt das der Tester zum Beispiel 4 versüche bracuhte.                  |
+| 5.1  | Der Spieler hat eine Falsche eingabe betätigt, | Der Tester soll eine falsche Eingabe betätigen.|  Das Programm soll eine Fehlermeldung abgeben und bitten eine richtige Eingabe zubetätigen.                |
+| 6.1  | Das Spiel wurde 3 mal gewonnen | Der Tester kann entscheiden ob er einen schwierigeren Modus spielen möchte.   Wenn man Nein klickt soll man wieder spielen können. Und das man Ja schreibt soll man schwierigere Modisspielen können                 |
+| 7.1  |  Spiel wurde gestartet            |  Spieler startet Spiel       |  Das Spiel wird mit blauer Farbe angezeigt.|
+| 8.1 |  Spiel wurde gestartet            |  Timer festlegen.       | Nach abgelofener Zeit hat man verloren.                  |
 
 
 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+
+
 
 ### 1.4 Diagramme
 
@@ -96,12 +95,12 @@ Ich habe mich dazu entschieden wenn ich genügen Zeit habe einige Features einzu
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  |   1.09.2022    |   Lukas     |    45min           |   20min                |
-|2.A  | 1.09.2022      |  Lukas        |  45min            |    15min               |
+|2.A  | 1.09.2022      |  Lukas        |  45min            |    20min               |
 | 3.A  | 1.09.2022       |   Lukas        |   45min            |       20min            |
 | 4.A | 1.09.2022      |   Lukas        |  45min             |   20min                |
-| 5.A  |  1.09.2022     |   Lukas        |   45min            |  5min                 |
+| 5.A  |  1.09.2022     |   Lukas        |   45min            |  20min                 |
 | 6.A  | 1.09.2022       |   Lukas        |    45min          |    35min               |
-| 7.A  | 1.09.2022       |   Lukas        |     45min          |    20min               |
+| 7.A  | 1.09.2022       |   Lukas        |     45min          |    25min               |
 | 9.A  |  8.09.2022     |   Lukas        |   45min            |       30min            |
 | 10.A  |  8.09.2022     |   Lukas        |     45min          |    40 min             |
 | 11.A  | 8.09.2022      |   Lukas        |   45min            |    50min               |
@@ -110,7 +109,8 @@ Ich habe mich dazu entschieden wenn ich genügen Zeit habe einige Features einzu
 | 14.A  |  15.09.2022    |   Lukas        |  45min             |   35min          |
 | 15.A  |  15.09.2022       |   Lukas        |  45min             |   20min           |
 | 16.A  |  15.09.2022      |   Lukas        |  45min             |   60min            |
-
+| 17.A  |  15.09.2022      |   Lukas        |  45min             |                    |
+| 18.A  |  15.09.2022      |   Lukas        |  45min             |   60min            |
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
@@ -119,8 +119,9 @@ Ich habe mich dazu entschieden wenn ich genügen Zeit habe einige Features einzu
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
+| 1.1  | 22      |          |        |
 | ...  |       |          |        |
+| 1.1  |       |          |        |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
