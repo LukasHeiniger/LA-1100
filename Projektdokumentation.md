@@ -135,5 +135,5 @@ und ist auf den Timer nicht angewiesen.
 
 ## 6 Auswerten
 
+https://github.com/LukasHeiniger/LA-1100/blob/main/LA-1100%20Lernbericht.md
 
-(https://github.com/LukasHeiniger/LA-1100/commit/179efc416a063b4282d28436db51f50362f627fc)
